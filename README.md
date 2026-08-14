@@ -1,4 +1,4 @@
-Hotel Haven: Booking Cancellation Prediction
+# Hotel Haven: Booking Cancellation Prediction
 
 An end-to-end machine-learning project that analyzes hotel reservations and predicts whether a booking will be cancelled. The analysis is designed to help Hotel Haven identify at-risk bookings early and take practical retention actions.
 
